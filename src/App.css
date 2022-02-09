@@ -37,10 +37,11 @@
   }
 }
 
-.btn, .form-control {
+.btn, .frm-control {
   border-radius: 0%;
 }
 
 .btn {
   background-color: #282c34;
+  border-color: white;
 }
